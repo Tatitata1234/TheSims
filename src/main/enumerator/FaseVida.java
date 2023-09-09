@@ -1,0 +1,5 @@
+package main.enumerator;
+
+public enum FaseVida {
+    RECEM_NASCIDO,BEBE,CRIANCA,PRE_ADOLESCENTE,ADOLESCENTE,JOVEM_ADULTO,ADULTO,IDOSO
+}
